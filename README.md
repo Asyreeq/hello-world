@@ -1,2 +1,8 @@
 # hello-world
-Just another repository
+
+Hello Humans!
+
+This is Branch readme file.
+Please try it.
+
+Thank you..~
